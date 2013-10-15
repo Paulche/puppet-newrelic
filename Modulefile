@@ -1,0 +1,5 @@
+name 'puppet-newrelic'
+version '0.0.3'
+license 'Apache 2.0'
+summary 'Puppet integration with the New Relic Deployment API'
+project_page 'https://github.com/puppetlabs/puppet-newrelic'

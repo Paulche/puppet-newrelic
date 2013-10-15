@@ -6,6 +6,17 @@ agent on your servers.
 
 This module supports yum and apt-based distributions
 
+Structure
+---------
+  
+  * newrelic::app::ruby
+  * newrelic::app::java
+  * newrelic::app::python
+  * newrelic::app::dotnet
+  * newrelic::app::php
+
+  * newrelic::server::agent
+
 Installation
 ------------
 
